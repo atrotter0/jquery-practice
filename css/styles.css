@@ -1,0 +1,14 @@
+.clickable {
+  color: green;
+  font-weight: bolder;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+  color: lime;
+  cursor: pointer;
+}
+
+#item-showing {
+  display: none;
+}
